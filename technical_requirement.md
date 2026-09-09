@@ -138,7 +138,7 @@
 | **Активности (Activities)** | Соотносят активности (медитация / дневник эмоций и т.д.) и их названия для таблицы со шкалой стресса |
 | **Уровень стресса (Stress_level)** | Фиксирует результаты опросов пользователя, используемые для оценки стресса |
 
-![Диаграмма]https://drive.google.com/file/d/19eCg3tKpEJu0tAf9F2zNK8ArynxlPon5/view?usp=sharing
+![Диаграмма](https://drive.google.com/uc?export=view&id=19eCg3tKpEJu0tAf9F2zNK8ArynxlPon5)
 
 ### Типы связей
 
